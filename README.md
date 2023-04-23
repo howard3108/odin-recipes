@@ -1,0 +1,1 @@
+This is the first Odin project called Odin Recipes!
